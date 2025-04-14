@@ -1,53 +1,9 @@
-   794|Cobertura Basica - Obras Civis em Contrução                                                     
-   795|Despesas Extraordinarias                                                                        
-   798|Despesas de Desentulho                                                                          
-   799|Responsabilidade Civil Geral e Cruzada                                                          
-   800|Despesas de Salvamento e Contenção de Sinistros                                                 
-   807|Obras civis em construção                                                                       
-   808|Manutenção ampla                                                                                
-   809|Equipamentos moveis e estacionários utilizados na obra                                          
-   810|Ferramentas de pequeno e médio porte                                                            
-   811|Danos físicos em consequência de erro de projeto para obras civis                               
-   812|Propriedades circunvizinhas                                                                     
-   813|Obras civis, instalações, e montagens concluídas                                                
-   814|Incêndio após entrega da obra                                                                   
-   815|Danos Morais – Sublime de RC geral                                                              
-   816|Responsabilidade civil do empregador - sublimite de rc geral                                    
-   829|Erro de Projeto para obras Civis                                                                
-   830|Extensão da Cobertura de RC Geral e Cruzada para derramamento, infiltração ou descargas de água.
-   831|Lucros Cessantes (ext RC Geral/Cruzada)                                                         
-  1024|Honorários de Perito                                                                            
-  1110|Tumultos,Greves e Lockout                                                                       
-  1111|Equipamentos de Escritório                                                                      
-  1112|Obras Temporárias                                                                               
-  1113|Danos Morais de RC Empregador                                                                   
-  1125|OBRAS/INSTALAÇÕES CONTRATADAS - ACEITAS OU COLOCADAS EM OPERAÇÃO                                
-  1126|SALVAMENTO E CONTENÇÃO DE SINISTROS                                                             
-  1148|PERÍODO DA OBRA                                                                                 
-  1149|LOCAL DA OBRA                                                                                   
-  1265|Transporte De Materiais a Serem Incorporados a Obra                                             
-  1299|BÁSICA                                                                                          
-  1300|DESPESAS EXTRAORDINÁRIAS                                                                        
-  1301|TUMULTO,GREVE,LOCK-OUT                                                                          
-  1302|DESPESAS COM DESENTULHO                                                                         
-  1303|OBRAS CONCLUÍDAS                                                                                
-  1304|OBRAS TEMPORÁRIAS                                                                               
-  1305|INCÊNDIO APÓS A ENTREGA DA OBRA                                                                 
-  1306|DESPESAS COM SALVAMENTO E CONTENÇÃO                                                             
-  1307|DANOS MORAIS DECORRENTES DE RESPONSABILIDADE                                                    
-  1308|RESPONSABILIDADE CIVIL SEM FUNDAÇÃO E CRUZADA                                                   
-  1309|PROPRIEDADE PRÉ EXISTENTE NO CANTEIRO DE OBRA                                                   
-  1310|EQUIPAMENTOS MÓVEIS E ESTACIONÁRIOS                                                             
-  1311|EQUIPAMENTOS DE PEQUENOS E MÉDIOS PORTE                                                         
-  1312|MANUTENÇÃO AMPLA                                                                                
-  1313|TRANSPORTE DE MATERIAIS A SEREM INCORPORADOS                                                    
-  1314|LUCROS CESSANTES EM DECORRÊNCIA                                                                 
-  1315|RESPONSABILIDADE CIVIL EMPREGADOR                                                               
-  1316|DANOS MORAIS DECOR. RC EMPREGADOR                                                               
-  1520|Responsabilidade Civil Geral e Cruzada Com Fundação                                             
-  1521|Instalações Provisórias                                                                         
-  1522|Obras Civis em Construção, Instalações Aceitas ou Colocadas em Operação (1 mês)                 
-  1523|Armazenagem Fora do Canteiro de Obras ou Local de Risco                                         
-  1524|Circulação de Equipamentos e/ou Veículos nas Vias Públicas Adjacentes                           
-  1525|Despesas de Defesa em Juízo Civil                                                               
-  1526|Poluição, Contaminação, e/ou Vazamento, Súbitos, Inesperados e/ou Contratados pelo Segurado     
+1028|INCÊNDIO / QUEDA DE RAIO / EXPLOSÃO                                                 |
+1029|RECOMPOSIÇÃO DE DOCUMENTOS                                                          |
+1030|IMPACTO DE VEÍCULOS / QUEDA DE AERONAVE                                             |
+1192|BASICA, DESP. COM BUSCA E SALVAMENTO, DANOS ELETRICOS, FURTO SIMPLES.               |
+1669|Acidentes Causa Externa, Roubo e Furto Mediante Arrombamento, Incêndio/Raio/Explosão|
+1670|Despesas com Salvamento                                                             |
+1671|Danos Elétricos                                                                     |
+1672|Furto Simples                                                                       |
+1700|RC Empregador - Operadores de Maquinas/Equip                                        |

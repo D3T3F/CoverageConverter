@@ -37,7 +37,7 @@ internal class Converter
 
 					coverage.Description = data[1].Trim();
 
-					var auxRegex = Regex.Replace(data[1], @"e\/ou|\s-\s|,\s|\s–\s|\s\(.+\)", ".+").Replace("/", @".?\s?");
+					var auxRegex = Regex.Replace(data[1], @"e\/ou|\s-\s|,\s|\s–\s|\s\(.+\)", ".+").Replace(" / ", @"\s?.?\s?").Replace("/", @".?\s?");
 
 					auxRegex = Regex.Replace(auxRegex, @"[^\x00-\x7F]|-|–", ".").Trim();
 
